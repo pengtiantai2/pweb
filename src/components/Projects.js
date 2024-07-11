@@ -13,8 +13,8 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Ter",
-      description: "蔷薇恋爱学园的生物老师",
+      title: "Sin",
+      description: "看上去倍受欢迎的数学男",
       imgUrl: projImg1,
     },
     {
@@ -23,8 +23,8 @@ export const Projects = () => {
       imgUrl: projImg2,
     },
     {
-      title: "Sin",
-      description: "看上去倍受欢迎的数学男",
+      title: "Ter",
+      description: "蔷薇恋爱学园的生物老师",
       imgUrl: projImg3,
     },
   ];
