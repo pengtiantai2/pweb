@@ -58,7 +58,8 @@ export const Banner = () => {
                 <span className="tagline">欢迎关注 梦之蔷薇恋爱学园心跳大作战 我们将持续更新内容</span>
                 <h1>{`你好！我是蔡语扬`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "很高兴认识你", "初次见面", "请多关照" ]'><span className="wrap">{text}</span></span></h1>
                   <p>一名普通的女生蔡语扬，莫名其妙地升入了一个神秘的高中——梦之蔷薇心跳学院，诡异微妙的校园气氛，兀自匆匆行走的麻木人群，奇怪的老师同学……探索欲与好奇心交织，小心翼翼地观察与相处，她能从这所高中顺利拿到毕业资格吗？</p>
-                  <button onClick={() => console.log('connect')}>了解更多 <ArrowRightCircle size={25} /></button>
+                  <button onClick={() => window.location.href = 'https://pengtiantai2.github.io/rose'}>开始游戏<ArrowRightCircle size={25} />
+                  </button>
               </div>}
             </TrackVisibility>
           </Col>
