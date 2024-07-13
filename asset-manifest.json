@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pweb/static/css/main.86fb5d8b.css",
-    "main.js": "/pweb/static/js/main.77e08e0b.js",
+    "main.js": "/pweb/static/js/main.e6d29293.js",
     "static/js/787.fb771931.chunk.js": "/pweb/static/js/787.fb771931.chunk.js",
     "static/media/MiSans-Medium.ttf": "/pweb/static/media/MiSans-Medium.d5e7e16577d1ffb42169.ttf",
     "static/media/MiSans-Demibold.ttf": "/pweb/static/media/MiSans-Demibold.c208a35f76d55ea9e19c.ttf",
@@ -30,11 +30,11 @@
     "static/media/arrow2.svg": "/pweb/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/pweb/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.86fb5d8b.css.map": "/pweb/static/css/main.86fb5d8b.css.map",
-    "main.77e08e0b.js.map": "/pweb/static/js/main.77e08e0b.js.map",
+    "main.e6d29293.js.map": "/pweb/static/js/main.e6d29293.js.map",
     "787.fb771931.chunk.js.map": "/pweb/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86fb5d8b.css",
-    "static/js/main.77e08e0b.js"
+    "static/js/main.e6d29293.js"
   ]
 }
