@@ -35,7 +35,7 @@ export const Skills = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2>开发进度</h2>
-                        <p>这里将会同步更新梦之蔷薇恋爱学园心跳大作战的开发进度<br></br>我们预计在2024年7月12日上架steam平台</p>
+                        <p>这里将会同步更新梦之蔷薇恋爱学园心跳大作战的开发进度<br></br>我们预计在2024年7月12日上开启内测</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <img src={meter1} alt="Image" />
