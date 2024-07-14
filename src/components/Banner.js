@@ -62,7 +62,7 @@ export const Banner = () => {
                     <button onClick={() => window.location.href = 'https://pengtiantai2.github.io/rose'}>
                       开始游戏 <ArrowRightCircle size={20} />
                     </button>
-                    <a href="https://github.com/pengtiantai2/pweb/blob/main/public/game-pc.zip" download className="download-link">
+                    <a href="https://ptt-gal.oss-cn-beijing.aliyuncs.com/game-pc.zip" download className="download-link">
                       <button>
                         下载PC版 <ArrowRightCircle size={20} />
                       </button>
